@@ -1,0 +1,5 @@
+C:/Users/miguel.lama/Desktop/Ejercicios_POO1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/miguel.lama/Desktop/Ejercicios_POO1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/miguel.lama/Desktop/Ejercicios_POO1/out/build/x64-Debug/Ejercicios_POO1/CMakeFiles/Ejercicios_POO1.dir
+C:/Users/miguel.lama/Desktop/Ejercicios_POO1/out/build/x64-Debug/Ejercicios_POO1/CMakeFiles/edit_cache.dir
+C:/Users/miguel.lama/Desktop/Ejercicios_POO1/out/build/x64-Debug/Ejercicios_POO1/CMakeFiles/rebuild_cache.dir
